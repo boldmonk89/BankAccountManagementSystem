@@ -89,7 +89,7 @@ git clone https://github.com/yourusername/BankAccountManagementSystem.git
 
 ## **Mentorship** 
 
-Special thanks to Suman Kumar Das for guidance in OOP design, real-world application structure, and secure coding practices.
+Special thanks to my Mentor Mr.Suman Kumar Das(KD Sir) for guidance in OOP design, real-world application structure, and secure coding practices.
 
  ## **Future Enhancements**
 
