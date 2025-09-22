@@ -87,11 +87,11 @@ git clone https://github.com/yourusername/BankAccountManagementSystem.git
 5.**Follow the on-screen instructions to create accounts and perform transactions.**
 
 
-Mentorship
+## **Mentorship** 
 
 Special thanks to Suman Kumar Das for guidance in OOP design, real-world application structure, and secure coding practices.
 
-Future Enhancements
+ ## **Future Enhancements**
 
 Add GUI using JavaFX or Swing for better user experience
 
@@ -99,7 +99,7 @@ Implement file/database persistence to store accounts and transactions
 
 Enable multi-user login sessions and report generation
 
-Technologies Used
+## **Technologies Used**
 
 Java (JDK 8+)
 
@@ -109,7 +109,7 @@ Java Date/Time API
 
 Object-Oriented Programming concepts (Abstraction, Inheritance, Polymorphism, Encapsulation)
 
-License
+## **License**
 
 This project is for educational purposes and inspired by OOP learning projects.
 
